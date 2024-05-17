@@ -1,2 +1,3 @@
 # landing_page
-Landing page project from github
+
+Landing project from theodinproject.com. I forgot to commit often.
